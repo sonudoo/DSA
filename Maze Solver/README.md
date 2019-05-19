@@ -1,5 +1,3 @@
-# Data-Structures-Algorithms
-
 #Maze Solver
 
 Solves a 0 1 maze. Built with Java GUI components. Algorithm - Backtracking. Complexity - Unknown (It is not trying all combinations). It can solve upto 100x100 complex mazes within a reasonable time.
